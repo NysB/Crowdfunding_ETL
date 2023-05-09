@@ -22,5 +22,7 @@
 
 
 ## Team Members:
-- x
-- x
+- Zhao, Jessica
+- Im, Soo Bin
+- Lin, Philip
+- Nys, Brecht
