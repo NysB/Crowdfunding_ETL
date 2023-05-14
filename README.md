@@ -36,7 +36,7 @@ https://dbdiagram.io/home <br/>
 
 
 **Team Members:** <br/>
-Zhao, Jessica: https://github.com/zhaojay47
-Im, Soo Bin: https://github.com/soobin83
-Lin, Philip: https://github.com/PhilipSJLin
-Nys, Brecht: https://github.com/NysB
+Zhao, Jessica: https://github.com/zhaojay47 <br/>
+Im, Soo Bin: https://github.com/soobin83 <br/>
+Lin, Philip: https://github.com/PhilipSJLin <br/>
+Nys, Brecht: https://github.com/NysB <br/>
