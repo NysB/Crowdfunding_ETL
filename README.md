@@ -28,7 +28,7 @@ We were succesfully able to: <br/>
     *crowdfunding_db_schema.sql <br/>
 
 
-## **How-to-run guide:
+## **How-to-run guide**
 Python <br/>
 Pandas <br/>
 Postgres <br/>
