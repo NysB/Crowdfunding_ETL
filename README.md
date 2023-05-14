@@ -4,35 +4,35 @@ As a team, we created an **ETL (Extract, Transform, Load) pipeline** using simul
 
 ## **Introduction**<br/>
 As a team we had to: <br/>
-*Create the Category and Subcategory DataFrames <br/>
-*Create the Campaign DataFrame <br/>
-*Create the Contacts DataFrame <br/>
-*Create the Crowdfunding Database with a pairing ERD (Entity Relationship Diagram) <br/>
+* Create the Category and Subcategory DataFrames <br/>
+* Create the Campaign DataFrame <br/>
+* Create the Contacts DataFrame <br/>
+* Create the Crowdfunding Database with a pairing ERD (Entity Relationship Diagram) <br/>
 
 
 ## **Data**
 For our analysis, we have transformed data extracted from the following datasets available in the Resources folder <br/>
-   *contacts.xlsx <br/>
-   *crowdfunding.xlsx <br/>
+   * contacts.xlsx <br/>
+   * crowdfunding.xlsx <br/>
 
 
 ## **Outcome**
 We were succesfully able to: <br/>
-*export our DataFrames as csv files <br/>
-    *category.csv <br/>
-    *subcategory.csv <br/>
-    *campaign.csv <br/>
-    *contacts.csv <br/>
-*create a database schema with matching schema, ERD, and database <br/>
-    *(Name of ERD file) <br/>
-    *crowdfunding_db_schema.sql <br/>
+* export our DataFrames as csv files <br/>
+    * category.csv <br/>
+    * subcategory.csv <br/>
+    * campaign.csv <br/>
+    * contacts.csv <br/>
+* create a database schema with matching schema, ERD, and database <br/>
+    * (Name of ERD file) <br/>
+    * crowdfunding_db_schema.sql <br/>
 
 
 ## **Technology/Tools used**
-Python <br/>
-Pandas <br/>
-Postgres <br/>
-https://dbdiagram.io/home <br/>
+* Python <br/>
+* Pandas <br/>
+* Postgres <br/>
+* https://dbdiagram.io/home <br/>
 
 
 **Team Members:** <br/>
