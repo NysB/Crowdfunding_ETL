@@ -1,6 +1,6 @@
 # Project 2: Crowdfunding ETL(Extract, Transform, and Load)
 
-As a team, we created an ETL (Extract, Transform, Load) pipeline using simulated data for the purpose of higher learning, which can translate to higher purpose use cases. 
+As a team, we created an *ETL (Extract, Transform, Load) pipeline* using simulated data for the purpose of higher learning, which can translate to higher purpose use cases. 
 
 ## **Introduction**<br/>
 As a team we had to: <br/>
@@ -28,7 +28,7 @@ We were succesfully able to: <br/>
     *crowdfunding_db_schema.sql <br/>
 
 
-## **How-to-run guide**
+## **Technology/Tools used**
 Python <br/>
 Pandas <br/>
 Postgres <br/>
