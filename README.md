@@ -10,6 +10,9 @@ As a team we had to: <br/>
 * Create the Crowdfunding Database with a pairing ERD (Entity Relationship Diagram) <br/>
 
 
+## **How to Run**
+
+
 ## **Data**
 For our analysis, we have transformed data extracted from the following datasets available in the Resources folder <br/>
    * contacts.xlsx <br/>
@@ -18,12 +21,12 @@ For our analysis, we have transformed data extracted from the following datasets
 
 ## **Outcome**
 We were succesfully able to: <br/>
-* export our DataFrames as csv files <br/>
+* export our DataFrames as csv files using *Starter_code.ipynb* <br/>
     * category.csv <br/>
     * subcategory.csv <br/>
     * campaign.csv <br/>
     * contacts.csv <br/>
-* create a database schema with matching schema, ERD, and database <br/>
+* create a database schema with matching schema, ERD, and database using *crowdfunding_db_schema.sql* <br/>
     * (Name of ERD file) <br/>
     * crowdfunding_db_schema.sql <br/>
 
