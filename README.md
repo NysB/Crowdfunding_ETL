@@ -17,15 +17,15 @@ crowdfunding.xlsx
 
 
 ## **Outcome**
-We were succesfully able to:
-*export our DataFrames as csv files
-    *category.csv
-    *subcategory.csv
-    *campaign.csv
-    *contacts.csv
-*create a database schema with matching schema, ERD, and database
-    *(Name of ERD file)
-    *crowdfunding_db_schema.sql
+We were succesfully able to: <br/>
+*export our DataFrames as csv files <br/>
+    *category.csv <br/>
+    *subcategory.csv <br/>
+    *campaign.csv <br/>
+    *contacts.csv <br/>
+*create a database schema with matching schema, ERD, and database <br/>
+    *(Name of ERD file) <br/>
+    *crowdfunding_db_schema.sql <br/>
 
 
 ## **How-to-run guide:
