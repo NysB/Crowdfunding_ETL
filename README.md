@@ -4,10 +4,12 @@ As a team, we created an **ETL (Extract, Transform, Load) pipeline** using simul
 
 ## **Introduction**<br/>
 As a team we had to: <br/>
-* Create the Category and Subcategory DataFrames <br/>
-* Create the Campaign DataFrame <br/>
-* Create the Contacts DataFrame <br/>
-* Create the Crowdfunding Database with a pairing ERD (Entity Relationship Diagram) <br/>
+* Utilize python/pandas to
+  * Create a Category and Subcategory DataFrames <br/>
+  * Create a Campaign DataFrame <br/>
+  * Create a Contacts DataFrame <br/>
+* Utilize postgres to
+  * Create a Crowdfunding Database with a pairing ERD (Entity Relationship Diagram) <br/>
 
 
 ## **How to Run**
