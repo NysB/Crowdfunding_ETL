@@ -2,7 +2,7 @@
 
 As a team, we created an ETL (Extract, Transform, Load) pipeline using simulated data for the purpose of learning, which can translate to higher purpose use cases. 
 
-##**Introduction**<br/>
+## **Introduction**<br/>
 As a team we had to:
 *Create the Category and Subcategory DataFrames <br/>
 *Create the Campaign DataFrame <br/>
@@ -10,13 +10,13 @@ As a team we had to:
 *Create the Crowdfunding Database with a pairing ERD (Entity Relationship Diagram) <br/>
 
 
-##**Data**
+## **Data**
 For our analysis, we have utilized the following datasets available in the Resources folder.
 contacts.xlsx
 crowdfunding.xlsx
 
 
-##**Outcome**
+## **Outcome**
 We were succesfully able to:
 *export our DataFrames as csv files
     *category.csv
@@ -28,7 +28,7 @@ We were succesfully able to:
     *crowdfunding_db_schema.sql
 
 
-How-to-run guide:
+## **How-to-run guide:
 Python <br/>
 Pandas <br/>
 Postgres <br/>
