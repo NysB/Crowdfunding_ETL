@@ -3,7 +3,7 @@
 As a team, we created an ETL (Extract, Transform, Load) pipeline using simulated data for the purpose of learning, which can translate to higher purpose use cases. 
 
 ## **Introduction**<br/>
-As a team we had to:
+As a team we had to: <br/>
 *Create the Category and Subcategory DataFrames <br/>
 *Create the Campaign DataFrame <br/>
 *Create the Contacts DataFrame <br/>
