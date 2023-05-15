@@ -13,7 +13,7 @@ As a team we had to: <br/>
 
 
 ## **How to Run**
-
+No additional packages have been installed. To rerun our analysis, please select "Run All" in the "ETL_Mini_Project_Starter_Code.ipynb" file.
 
 ## **Data**
 For our analysis, we have transformed data extracted from the following datasets available in the Resources folder <br/>
