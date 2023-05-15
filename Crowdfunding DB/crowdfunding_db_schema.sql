@@ -29,7 +29,7 @@ CREATE TABLE "contacts" (
     "contact_id" FLOAT PRIMARY KEY,
     "first_name" VARCHAR(20) NOT NULL,
     "last_name" VARCHAR(20) NOT NULL,
-    "email" VARCHAR(40) NOT NULL
+    "email" VARCHAR(50) NOT NULL
 );
 
 -- Check data import and view the table
@@ -40,8 +40,8 @@ SELECT * FROM contacts;
 CREATE TABLE "campaign" (
     "cf_id" int PRIMARY KEY,
     "contact_id" int NOT NULL,
-    "company_name" VARCHAR(30) NOT NULL,
-    "description" VARCHAR(50) NOT NULL,
+    "company_name" VARCHAR(50) NOT NULL,
+    "description" VARCHAR(100) NOT NULL,
     "goal" FLOAT NOT NULL,
     "pledged" FLOAT NOT NULL,
     "outome" VARCHAR(10) NOT NULL,
