@@ -32,7 +32,11 @@ For our analysis, we have transformed data extracted from the following datasets
 
 ## **How to Run**
 * No additional packages have been installed. To rerun our analysis, please select "Run All" in the "ETL_Mini_Project_Starter_Code.ipynb" file.
+
 * For Crowdfunding_db_schema.sql, execute the schema in pgAdmin, and then import csv files in the order of category, subcategory, contacts, and then finally campaign.
+
+* You can recreate our diagrams (Crowdfunding Database) by using https://dbdiagram.io/home
+![](https://github.com/NysB/Crowdfunding_ETL/blob/main/ERD.JPG)
 
 
 
