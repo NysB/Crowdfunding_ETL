@@ -1,9 +1,21 @@
 # Project 2: Crowdfunding ETL(Extract, Transform, and Load)
 
-As a team, we created an **ETL (Extract, Transform, Load) pipeline** using simulated data for the purpose of learning, which can translate to higher purpose use cases. 
+ETL (Extract, Transform and Load) is an action where we combine data from different sources into a sizeable central repository. It provides foundation for data analysis because it implements specific needs like monthly reporting and addresses more advance analytics. 
+Many organizations make use of ETL for the following:
+•	extract data from legacy systems 
+	Because legacy systems are implemented on old technologies and platforms, it’s a tedious job to processes high-volume structured and unstructured data due to it being only adapted to deliver specific data-sets. (Often crashes and performs slowly)
+•	ETL Solves this issue by being able to handle structure and unstructured data. 
+
+•	improve the quality of the data by cleaning the data sets
+	ETL can identify data errors (incorrect/incomplete/duplicate). This helps correcting data sets to provide continuous data processing.
+
+•	importing data into a target database
+	Can migrate large amount of data from legacy systems into a data warehouse. 
+
 
 ## **Introduction**<br/>
-As a team we had to: <br/>
+In this project we’re practicing using ETL pipeline by utilizing Python and Pandas to extract and transform our datasets. Then we’ll use the transformed data to create our CSV file to make our ERD and a table schema. 
+: <br/>
 * Utilize python/pandas to
   * Create a Category and Subcategory DataFrames <br/>
   * Create a Campaign DataFrame <br/>
