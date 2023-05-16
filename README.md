@@ -24,14 +24,16 @@ In this project we’re practicing using ETL pipeline by utilizing Python and Pa
 * Utilize postgres to
   * Create a Crowdfunding Database with a pairing ERD (Entity Relationship Diagram) <br/>
 
-
-## **How to Run**
-No additional packages have been installed. To rerun our analysis, please select "Run All" in the "ETL_Mini_Project_Starter_Code.ipynb" file.
-
 ## **Data**
 For our analysis, we have transformed data extracted from the following datasets available in the Resources folder <br/>
    * contacts.xlsx <br/>
    * crowdfunding.xlsx <br/>
+
+
+## **How to Run**
+No additional packages have been installed. To rerun our analysis, please select "Run All" in the "ETL_Mini_Project_Starter_Code.ipynb" file.
+
+
 
 
 ## **Outcome**
