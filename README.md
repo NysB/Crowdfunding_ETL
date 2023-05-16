@@ -1,4 +1,4 @@
-# Project 2: Crowdfunding ETL(Extract, Transform, and Load)
+# Project 2: Crowdfunding ETL
 
 ETL (Extract, Transform and Load) is an action where we combine data from different sources into a sizeable central repository. It provides foundation for data analysis because it implements specific needs like monthly reporting and addresses more advance analytics.
 
