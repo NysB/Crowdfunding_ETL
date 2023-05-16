@@ -35,8 +35,8 @@ For our analysis, we have transformed data extracted from the following datasets
 
 
 ## **How to Run**
-* No additional packages have been installed. To rerun our analysis, please select "Run All" in the "ETL_Mini_Project_Starter_Code.ipynb" file.
-
+* No additional packages have to be installed if `pandas` and `numpy` are already installed. To rerun our analysis, please select "Run All" in the "ETL_Mini_Project_Starter_Code.ipynb" file.
+* For `PostgresSQL` go to their website https://www.postgresql.org/download/ and follow their instruction for download. 
 * For Crowdfunding_db_schema.sql, execute the schema in pgAdmin, and then import csv files in the order of category, subcategory, contacts, and then finally campaign.
 
 * You can recreate our diagram by using https://dbdiagram.io/home
@@ -58,9 +58,9 @@ We were succesfully able to: <br/>
 
 
 ## **Technology/Tools used**
-* Python <br/>
-* Pandas <br/>
-* Postgres <br/>
+* `Python` <br/>
+* `Pandas` <br/>
+* `Postgres` <br/>
 * https://dbdiagram.io/home <br/>
 
 
