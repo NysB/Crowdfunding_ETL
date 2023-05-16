@@ -35,7 +35,7 @@ For our analysis, we have transformed data extracted from the following datasets
 
 * For Crowdfunding_db_schema.sql, execute the schema in pgAdmin, and then import csv files in the order of category, subcategory, contacts, and then finally campaign.
 
-* You can recreate our diagrams (Crowdfunding Database) by using https://dbdiagram.io/home
+* You can recreate our diagram by using https://dbdiagram.io/home
 ![](https://github.com/NysB/Crowdfunding_ETL/blob/main/ERD.JPG)
 
 
