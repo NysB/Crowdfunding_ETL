@@ -13,7 +13,6 @@ CREATE TABLE "category" (
 -- Check data import and view the table
 SELECT * FROM category;
 
-
 -- Create the subcategory table
 CREATE TABLE "subcategory" (
     "subcategory_id" VARCHAR(8) PRIMARY KEY,
@@ -22,7 +21,6 @@ CREATE TABLE "subcategory" (
 
 -- Check data import and view the table
 SELECT * FROM subcategory;
-
 
 -- Create the contacts table
 CREATE TABLE "contacts" (
@@ -34,7 +32,6 @@ CREATE TABLE "contacts" (
 
 -- Check data import and view the table
 SELECT * FROM contacts;
-
 
 -- Create the campaign table
 CREATE TABLE "campaign" (
