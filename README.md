@@ -53,7 +53,7 @@ We were succesfully able to: <br/>
     * campaign.csv <br/>
     * contacts.csv <br/>
 * create a database schema with matching schema, ERD, and database using *crowdfunding_db_schema.sql* <br/>
-    * (Name of ERD file) <br/>
+    * ERD.jpg <br/>
     * crowdfunding_db_schema.sql <br/>
 
 
